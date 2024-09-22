@@ -1,6 +1,7 @@
 import sys
 import csv
 import json
+#this file contains the pyqt5 gui by alexander menassa
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
                              QLabel, QLineEdit, QPushButton, QTabWidget, QTableWidget, QTableWidgetItem,
